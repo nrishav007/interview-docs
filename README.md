@@ -8,9 +8,9 @@ Navigation: Site navigation, breadcrumbs, menus, etc.
 
 Responsiveness: Adapting to different screen sizes, devices, and orientations.
 
-<!-- Performance: Optimizing images, minifying code, caching, etc.
+Performance: Optimizing images, minifying code, caching, etc.
 
-Security: Protecting against hacking, cross-site scripting, cross-site request forgery, etc. -->
+Security: Protecting against hacking, cross-site scripting, cross-site request forgery, etc.
 
 Analytics: Measuring website traffic, user behavior, and conversions.
 
