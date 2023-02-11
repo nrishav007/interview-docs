@@ -8,11 +8,11 @@ Navigation: Site navigation, breadcrumbs, menus, etc.
 
 Responsiveness: Adapting to different screen sizes, devices, and orientations.
 
-Performance: Optimizing images, minifying code, caching, etc.
+(D)Performance: Optimizing images, minifying code, caching, etc.
 
-Security: Protecting against hacking, cross-site scripting, cross-site request forgery, etc.
+(D)Security: Protecting against hacking, cross-site scripting, cross-site request forgery, etc.
 
-Analytics: Measuring website traffic, user behavior, and conversions.
+(D)Analytics: Measuring website traffic, user behavior, and conversions.
 
 Search Engine Optimization (SEO): Improving search engine ranking, keyword optimization, etc.
 
