@@ -14,7 +14,7 @@ Responsiveness: Adapting to different screen sizes, devices, and orientations.
 
 (D)Analytics: Measuring website traffic, user behavior, and conversions.
 
-Search Engine Optimization (SEO): Improving search engine ranking, keyword optimization, etc.
+(D)Search Engine Optimization (SEO): Improving search engine ranking, keyword optimization, etc.
 
 Payment gateway integration: Implementing secure payment systems for e-commerce websites.
 
